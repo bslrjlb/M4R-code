@@ -9,3 +9,6 @@ All code used in my M4R project is presented here.
 - 'p_values_distribution' contains the distributions of p-values for each of the conditional independence tests in Table 4.1, Table 4.2, and Table 4.3
 
 - 'regression' contains code for the baseline regression and the new regression (re-estimated associations)
+
+- We use the DAGitty website to help with conditional independence identification https://www.dagitty.net/dags.html#
+
